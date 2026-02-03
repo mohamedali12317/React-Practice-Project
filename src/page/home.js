@@ -15,7 +15,7 @@ const Home = () => {
         <meta name="description" content="home page" />
       </Helmet>
 
-      <MainContent text= "Home" designer="Designed By Mohamed" age="24">    
+      <MainContent text= "Home" designer="Designed By Mohamed" age="28">    
         
         </MainContent>     
 
